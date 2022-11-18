@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nubank Remake</string>
+    <string name="txt_nome_usuario">Olá, Max</string>
+    <string name="txt_saldo_conta">Conta \n\n R$ 713,99</string>
+</resources>
