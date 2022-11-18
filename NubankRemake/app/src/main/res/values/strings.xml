@@ -2,4 +2,10 @@
     <string name="app_name">Nubank Remake</string>
     <string name="txt_nome_usuario">Olá, Max</string>
     <string name="txt_saldo_conta">Conta \n\n R$ 713,99</string>
+    <string name="txt_cartoes">Meus Cartões</string>
+    <string name="txt_cartão_credito">Cartão de crédito</string>
+    <string name="txt_fatura_atual">Fatura atual</string>
+    <string name="txt_dinheiro_fatura">R$ 458,85</string>
+    <string name="txt_limite_disponivel">Limite disponivel de R$ 780,01</string>
+    <string name="txt_parcelar_compras">Parcelar Compras</string>
 </resources>
